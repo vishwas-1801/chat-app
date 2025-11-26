@@ -1,9 +1,3 @@
-# ✨ Full Stack Realtime Chat App ✨
-
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
-[Video Tutorial on Youtube](https://youtu.be/ntKkVrQqBYY)
-
 Highlights:
 
 - 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
@@ -26,7 +20,6 @@ CLOUDINARY_CLOUD_NAME=...
 CLOUDINARY_API_KEY=...
 CLOUDINARY_API_SECRET=...
 
-NODE_ENV=development
 ```
 
 ### Build the app
